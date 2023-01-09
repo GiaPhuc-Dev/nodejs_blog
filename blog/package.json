@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiaPhuc-Dev/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "sondn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiaPhuc-Dev/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/GiaPhuc-Dev/nodejs_blog#readme"
+}
